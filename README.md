@@ -1,3 +1,6 @@
+#This project has been integraded into [GeneralToolsForMaya_CapU](https://github.com/xht8723/GeneralToolsForMaya_CapU)
+This repo will not be upgraded.
+
 # AutoBlendColor_ForMaya
 A script to set up IK FK switch via BlendColors in Maya
 

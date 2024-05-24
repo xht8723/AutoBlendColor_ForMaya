@@ -1,4 +1,4 @@
-#This project has been integraded into [GeneralToolsForMaya_CapU](https://github.com/xht8723/GeneralToolsForMaya_CapU)
+# This project has been integraded into [GeneralToolsForMaya_CapU](https://github.com/xht8723/GeneralToolsForMaya_CapU)
 This repo will not be upgraded.
 
 # AutoBlendColor_ForMaya
